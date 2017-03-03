@@ -1,0 +1,9 @@
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\bin\Debug\TSA_State.exe.config
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\bin\Debug\TSA_State.exe
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\bin\Debug\TSA_State.pdb
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.csprojResolveAssemblyReference.cache
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.Form1.resources
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.Properties.Resources.resources
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.csproj.GenerateResource.Cache
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.exe
+c:\users\catoja1107\documents\visual studio 2015\Projects\TSA_State_SOL\TSA_State\obj\Debug\TSA_State.pdb

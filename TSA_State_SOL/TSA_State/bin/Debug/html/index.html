@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="./css/main.css">
+	<link rel="javascript" type="text/javascript" href="./js/main.js">
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<!--<script type="text/javascript" src="./js/main.js">-->
+	</head>
+<body id="body">
+	<script type="text/javascript">
+		function Clear(){
+			alert("test");
+			var parent = document.getElementById('body');
+			var child = document.getElementById('iframe');
+			parent.removeChild(child);
+		}
+		function load(){
+			alert("t");
+			var node = document.createElement("iframe");
+			var textnode = document.createAttribute("class");
+			textnode.value = "calenderiframe";
+			document.createAttribute("src").value = "https://www.google.com/"
+			document.getElementById('body').appendchild(node);
+		}
+		
+	</script>
+	<div>
+		<ul class="nav">
+			<li id="1" onClick="Clear()">Home</li>
+			<li id="2" onClick="load()">Calender</li>
+			<li id="3" onClick="form()">Schedule</li>
+		</ul>
+	</div>
+		<iframe id="iframe" src="google.com" style="height:100px; width:100px;">
+		</iframe>
+	<section class="grid">
+		<div class="tile1">
+		</div>
+		<div class="tile2">
+		</div>
+		<div class="tile3">
+		</div>
+		<div class="tile4">
+		</div>
+	</section>
+</body>
+</html>
+<!--
+			var parent = document.getElementsbyTagName("body");
+			var child = document.getElementsbyTagName("iframe");
+			parent.removeChild(child);
+			-->
